@@ -30,3 +30,8 @@
 - Add authentication so users can only edit/delete their own posts
 - Better CSS / styling
 - Deploy online (Heroku / Vercel / Render etc.)
+
+
+![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-4.x-lightgrey?logo=express)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
