@@ -1,7 +1,7 @@
 # 🧠 Mini-Quora Clone
 
 ## Features
-- Create new post (with username & UUID)
+- Create new post (with username)
 - Edit post
 - View post details
 - Delete post
@@ -9,7 +9,7 @@
 ## Tech Stack
 - Node.js
 - Express
-- EJS (or whichever view engine you use)
+- EJS 
 - UUID
 
 ## Setup / Installation
@@ -26,10 +26,9 @@
 
 ## Future Improvements
 
-- Use a database instead of in-memory storage (MongoDB / PostgreSQL etc.)
-- Add authentication so users can only edit/delete their own posts
+- Use a database instead of in-memory storage (MongoDB )
 - Better CSS / styling
-- Deploy online (Heroku / Vercel / Render etc.)
+- Deploy online 
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen?logo=node.js)
